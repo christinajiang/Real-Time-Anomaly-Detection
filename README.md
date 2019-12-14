@@ -1,8 +1,7 @@
 # Supervised Anomaly Detection & Real Time Notification Using Amazon Sagemaker, AWS Kinesis, AWS SNS and AWS Quicksight
 
-2019 MSBA 6330 / MSBA 6320 Trends Marketplace
 
-Group members: Zheming Lian, Jiahui Jiang, Shunshun Miao, Pahal Patangia, Fazel Tabassum, Chuchen Xiong
+Contributors: Zheming Lian, Jiahui Jiang, Shunshun Miao, Pahal Patangia, Fazel Tabassum, Chuchen Xiong
 
 
 ## Project Description
@@ -44,10 +43,6 @@ Set up the configuration in CloudFormation
 **Handout.pdf**
 
 The flyer we used in the presentation section.
-
-**Voicethread.mov**
-
-The slides and presentation
 
 **step2_training_sagemaker_logistic.ipynb**
 
